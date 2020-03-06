@@ -1,8 +1,26 @@
+This is a simple list items with React and MobX. 
+
+1. The project is created with create-react-app.
+2. It has a best folder structure for react project.
+3. The data store used here is MobX which is very robust and easy to use.
+4. The json-server is used as a api server.
+5. It has a material UI components which is very elegant and simple.
+6. It has routes so browser back button click is handled very well.
+7. This is a production ready code with the env config files.
+8. This is NOT a POC and its a real project so that any other modules can be easily added. You will know that once you open modules in src.
+9. The UI interaction is very smooth and animations added.
+10. It is responsive by design.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run server`
+Runs the server in the development mode.<br />
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
 
 ### `npm start`
 
